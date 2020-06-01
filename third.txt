@@ -1,0 +1,2 @@
+Hi! Welcome to the NodeJS Training Section
+In this section we are learning git commands
