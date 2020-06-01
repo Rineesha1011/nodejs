@@ -1,0 +1,2 @@
+This is another file.
+this file taken as a example for learning git commands.
